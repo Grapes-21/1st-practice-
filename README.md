@@ -1,2 +1,1 @@
-# 1st-practice-
-Learning new concepts in Github
+# I'm a student 
